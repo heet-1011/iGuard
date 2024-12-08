@@ -24,7 +24,7 @@ trained iForest, and conversion of iForest to a small set of whitelist rules tha
 <a href="https://dl.acm.org/doi/10.1145/3680121.3697807">iGuard</a>
 
 ## Codebase
-<a>Link will be available soon</a>
+<a href="https://github.com/networked-systems-iith/iGuard">Official Codebase</a>
 
 ## Under supervision of 
 <a href="https://praveenabt.github.io/">Dr. Praveen Tammana </a>
